@@ -1,0 +1,9 @@
+c:\users\michal\documents\visual studio 2013\Projects\WebContentDownloader\WebContentDownloader\bin\Debug\WebContentDownloader.exe.config
+c:\users\michal\documents\visual studio 2013\Projects\WebContentDownloader\WebContentDownloader\bin\Debug\WebContentDownloader.exe
+c:\users\michal\documents\visual studio 2013\Projects\WebContentDownloader\WebContentDownloader\bin\Debug\WebContentDownloader.pdb
+c:\users\michal\documents\visual studio 2013\Projects\WebContentDownloader\WebContentDownloader\obj\Debug\WebContentDownloader.exe
+c:\users\michal\documents\visual studio 2013\Projects\WebContentDownloader\WebContentDownloader\obj\Debug\WebContentDownloader.pdb
+c:\users\michal\documents\visual studio 2013\Projects\WebContentDownloader\WebContentDownloader\bin\Debug\HtmlAgilityPack.dll
+c:\users\michal\documents\visual studio 2013\Projects\WebContentDownloader\WebContentDownloader\bin\Debug\HtmlAgilityPack.pdb
+c:\users\michal\documents\visual studio 2013\Projects\WebContentDownloader\WebContentDownloader\bin\Debug\HtmlAgilityPack.xml
+c:\users\michal\documents\visual studio 2013\Projects\WebContentDownloader\WebContentDownloader\obj\Debug\WebContentDownloader.csprojResolveAssemblyReference.cache
